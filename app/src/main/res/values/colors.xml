@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FFFFFF</color>
+    <color name="primary_dark">#BDBDBD</color>
+    <color name="primary_splash">#FFFFFF</color>
+    <color name="primary_splash_dark">#BDBDBD</color>
+    <color name="accent">#D42F4A</color>
+    <color name="accent_light">#e597a4</color>
+    <color name="transparent">#00000000</color>
+    <color name="semi_transparent_white">#70ffffff</color>
+    <color name="toolbar_bg">#fcfcfc</color>
+    <color name="toolbar_title">#D42F4A</color>
+
+    <color name="text_primary">#162630</color>
+    <color name="white">#ffffff</color>
+    <color name="text_secondary">#a8b6be</color>
+    <color name="text_hint">#808080</color>
+
+</resources>

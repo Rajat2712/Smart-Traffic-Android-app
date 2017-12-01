@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "301561190709",
+    "firebase_url": "https://smart-traffic-19a34.firebaseio.com",
+    "project_id": "smart-traffic-19a34",
+    "storage_bucket": "smart-traffic-19a34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301561190709:android:ca595a8a2581f339",
+        "android_client_info": {
+          "package_name": "sredoc.smart_traffic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301561190709-di1b2rtihumo9gpeco69v87vd3lmuimo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sredoc.smart_traffic",
+            "certificate_hash": "25b143a4a2b1143d1aaf9a82ce2e877f2aca0ae2"
+          }
+        },
+        {
+          "client_id": "301561190709-v9fjn636oqbdk3g6v1m40gg9u55r3i3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx9U40NBbXp8nySnl5oypdaBZxwl7TeWw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301561190709-v9fjn636oqbdk3g6v1m40gg9u55r3i3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

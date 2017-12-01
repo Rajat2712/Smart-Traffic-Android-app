@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="fontStyle" format="enum">
+        <enum name="sf_thin" value="0"/>
+        <enum name="sf_regular" value="1"/>
+        <enum name="sf_medium" value="2"/>
+        <enum name="sf_bold" value="3"/>
+    </attr>
+
+    <declare-styleable name="chipLayout">
+        <attr name="android:gravity"/>
+    </declare-styleable>
+
+    <declare-styleable name="chipLayout_Layout">
+        <attr name="android:layout_gravity"/>
+    </declare-styleable>
+
+    <declare-styleable name="ChipLayout">
+        <attr name="textSize" format="dimension"/>
+        <attr name="chipPadding" format="dimension"/>
+        <attr name="chipPaddingLeft" format="dimension"/>
+        <attr name="chipPaddingRight" format="dimension"/>
+        <attr name="chipPaddingTop" format="dimension"/>
+        <attr name="chipPaddingBottom" format="dimension"/>
+        <attr name="chipTextPadding" format="dimension"/>
+        <attr name="chipTextPaddingLeft" format="dimension"/>
+        <attr name="chipTextPaddingRight" format="dimension"/>
+        <attr name="chipTextPaddingTop" format="dimension"/>
+        <attr name="chipTextPaddingBottom" format="dimension"/>
+        <attr name="textColor" format="color"/>
+        <attr name="chipColor" format="color"/>
+        <attr name="showText" format="boolean"/>
+        <attr name="isEditable" format="boolean"/>
+        <attr name="hint" format="string"/>
+        <attr name="showDeleteButton" format="boolean"/>
+        <attr name="openNewChip" format="boolean"/>
+        <attr name="deleteIcon" format="reference"/>
+        <attr name="addIcon" format="reference"/>
+        <attr name="chipFilledDrawable" format="reference"/>
+        <attr name="chipEmptyDrawable" format="reference"/>
+        <attr name="chipLayoutDrawable" format="reference"/>
+        <attr name="labelPosition" format="enum">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="CircularImageView">
+        <attr name="civ_border" format="boolean"/>
+        <attr name="civ_borderColor" format="color"/>
+        <attr name="civ_borderWidth" format="dimension"/>
+        <attr name="civ_selector" format="boolean"/>
+        <attr name="civ_selectorColor" format="color"/>
+        <attr name="civ_selectorStrokeColor" format="color"/>
+        <attr name="civ_selectorStrokeWidth" format="dimension"/>
+        <attr name="civ_shadow" format="boolean"/>
+        <attr name="civ_shadowRadius" format="float"/>
+        <attr name="civ_shadowDx" format="float"/>
+        <attr name="civ_shadowDy" format="float"/>
+        <attr name="civ_shadowColor" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="CircularImageViewStyle">
+        <attr name="circularImageViewDefault" format="reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="SegmentedGroup">
+        <attr name="sc_corner_radius" format="dimension"/>
+        <attr name="sc_border_width" format="dimension"/>
+        <attr name="sc_tint_color" format="color"/>
+        <attr name="sc_checked_text_color" format="color"/>
+        <attr name="sc_unchecked_tint_color" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="DiagonalLayout">
+        <attr name="diagonal_angle" format="integer"/>
+        <attr name="diagonal_handleMargins" format="boolean"/>
+        <attr name="diagonal_position" format="enum">
+            <enum name="left" value="1"/>
+            <enum name="right" value="2"/>
+            <enum name="bottom" value="4"/>
+            <enum name="top" value="8"/>
+        </attr>
+        <attr name="diagonal_direction" format="enum">
+            <enum name="left" value="1"/>
+            <enum name="right" value="2"/>
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="GifView">
+        <attr name="gif" format="reference" />
+        <attr name="paused" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="CustomTheme">
+        <attr name="gifViewStyle" format="reference" />
+    </declare-styleable>
+
+</resources>

@@ -1,3 +1,8 @@
+# Smart Traffic 
+
+![1](https://user-images.githubusercontent.com/23000971/33515529-093c9b3c-d78b-11e7-98d9-4d0369989db2.JPG)
+
+
 ## Inspiration
 ### Theme : 
 Smart Habitat What we understand by smart habitat? Habitat is a place that human adapts himself to. Keeping this in mind we started to work on our idea to deal the problems related to traffic congestion and accidents.
@@ -27,3 +32,10 @@ The cameras installed at red lights can be used to fine the drivers who are with
 
 ## Screenshots
 ### Input
+![2](https://user-images.githubusercontent.com/23000971/33515530-09699628-d78b-11e7-86aa-75273d9047fb.JPG)
+
+### Map
+![3](https://user-images.githubusercontent.com/23000971/33515531-099648e4-d78b-11e7-860c-e6dd6acacf1f.JPG)
+
+### Notification
+![4](https://user-images.githubusercontent.com/23000971/33515532-09c37d14-d78b-11e7-940d-106b03219765.JPG)
